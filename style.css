@@ -81,6 +81,7 @@ img {
 /* Padding and border for developer image to center and offset for shadow */
 .img2 {
   display: flex;
+  width: 75%;
   align-items: center;
   margin-top: 5%;
   margin-bottom: 5%;
@@ -89,6 +90,7 @@ img {
 }
 
 .img3 {
+  width: 50%;
   align-items: center;
   margin-top: 5%;
   margin-bottom: 5%;
@@ -98,6 +100,7 @@ img {
 }
 
 .img4 {
+  width: 90%;
   margin-top: 10%;
   margin-bottom: 10%;
   border: 2px solid rgb(0, 0, 0);
